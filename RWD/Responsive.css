@@ -1,0 +1,70 @@
+
+@media (max-width: 1096px){
+	.top-area{
+	display: block;
+	
+	}
+	.logo{
+		margin: 0 auto;
+		width: 50%;
+	}
+	.nav-area{
+	width: 65%;
+	margin: 0px 40px;
+	}
+	.cart{
+		width: 20%;
+	}
+	.cart .fa-shopping-cart{
+		font-size: 15px;
+		margin: 0px 5px;
+	}
+	.cart button{
+		font-size: 15px;
+	}
+
+
+	.banner{
+	height: 500PX;
+	
+	}
+	.box-1{
+		display: block;
+		margin-top: -150px;
+	}
+	.beans{
+	width: 100%;
+	height: auto;
+	}
+	.right-side {
+	margin-left: 0px;
+	}
+
+	.left-side{
+		width: 50%;
+	}
+	.left-side img{
+		width: 100%;
+	}
+	.cart{
+	margin-top: -05%;
+	margin-left: 52%;
+	}
+	.cart button{
+	font-size:13px;
+
+	}
+	.apple{
+		width:100%;
+	}
+	.google{
+		width: 100%;
+	}
+	
+	
+	
+
+
+
+
+}
